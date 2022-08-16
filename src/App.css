@@ -1,0 +1,23 @@
+.fake-input-box{
+    margin:5rem auto;
+    height:3rem;
+    width:20rem;
+    background:none;
+    display:flex;
+    align-items:center;
+    border-radius:20px;
+    padding-right:1rem;
+    overflow:hidden;
+    border:1px solid dodgerblue;
+}
+.fake-input-box:hover{
+    border:1px solid red;
+}
+.fake-input-box input{
+    width:100%;
+    height:100%;
+    background:transparent;
+    border:none;
+    outline:none;
+    padding-left:1rem;
+}

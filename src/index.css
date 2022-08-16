@@ -1,0 +1,19 @@
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond:regular,500,600,700,800,italic,500italic,600italic,700italic,800italic);
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+html{
+  font-size:62.5%;
+  font-family:'eb garamond', serif;
+}
+a,a:link,:visited{
+  color:white;
+  text-decoration: none;
+}
+.max-wrapper{
+  width:100%;
+  display:grid;
+  place-items: center;
+}
